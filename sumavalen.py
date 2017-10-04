@@ -5,4 +5,4 @@ def SUMA(A,B):
 A = int(input())
 B = int(input())
 C = SUMA(A,B)
-print(C)
+print("La suma entre " + A + " " + B " = " + C)
